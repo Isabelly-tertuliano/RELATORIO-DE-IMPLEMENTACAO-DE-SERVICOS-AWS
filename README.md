@@ -30,12 +30,10 @@
 ## Conclusão
   A implementação de ferramentas na empresa AMMA tem como esperado a redução imediata do custo operacional de TI, a eliminação do desperdício de infraestrutura ociosa e a automação do ciclo de vida dos nossos dados de CRM, o que aumentará a eficiência e a produtividade da empresa. Ao baratear a sustentação do Radar de Evasão e das Réguas Modulares, garantimos que os investimentos sejam direcionados para o que realmente importa: a experiência e o acolhimento do cliente. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa, mantendo o respeito ao tempo e à saúde do negócio.
 
-Anexos
-Anexo A: Painel de Recomendações do AWS Compute Optimizer (Simulação de Redução de CPU/Memória).
-
-Anexo B: Cronograma de Disparo Noturno do Radar de Evasão via EC2 Spot.
-
-Anexo C: Política de Transição Automática de Camadas de Dados do Amazon S3.
+## Anexos
+- Anexo A: Painel de Recomendações do AWS Compute Optimizer (Simulação de Redução de CPU/Memória).
+- Anexo B: Cronograma de Disparo Noturno do Radar de Evasão via EC2 Spot.
+- Anexo C: Política de Transição Automática de Camadas de Dados do Amazon S3.
 
 Assinatura do Responsável pelo Projeto:
 Isabelly Tertuliano
